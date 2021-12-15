@@ -1,7 +1,10 @@
 {
   "name": "aboutme",
   "version": "0.1.0",
-  "private": true,
+  "private": true, "engines": {
+    "node": "17.1.0",
+    "npm": "8.1.2"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
